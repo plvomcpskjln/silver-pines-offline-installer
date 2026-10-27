@@ -26,6 +26,10 @@
 
 </div>
 
+<div align="center">
+<img width="460" height="215" alt="Silver Pines" src="https://raw.githubusercontent.com/plvomcpskjln/silver-pines-offline-installer/main/game.jpg" />
+</div>
+
 ---
 
 ## 📖 About Silver Pines

